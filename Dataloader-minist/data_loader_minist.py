@@ -65,4 +65,6 @@ def data_loader(flag, start, end):
 #     return img_array
 
 
-if __name__ == '__m
+if __name__ == '__main__'
+       read_image(MINIST_TRAIN_DATA)
+      
