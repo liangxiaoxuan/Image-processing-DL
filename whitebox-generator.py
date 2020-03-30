@@ -1,4 +1,4 @@
-mport sys
+import sys
 import os
 module_path = os.path.abspath(os.getcwd())
 if module_path not in sys.path:
