@@ -59,6 +59,9 @@ def register_model(des, repo, sha1, author, is_attack, checkpoint):
     conn.close()
 
     return result[0]
+
+def test():
+    print("abc")
     
     
  if __name__ == '__main__':
